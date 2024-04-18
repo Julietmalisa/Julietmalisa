@@ -6,5 +6,5 @@
 - My interests in data analytics anchors majorly on data cleaning, data modeling, data analysis, and data visualization; using tools like Excel, Tableau, Power PI, SQL, and others to achieve it. As they play a crucial role in transforming raw data into actionable intelligence.
 - I'm excited to continue learning and growing in the dynamic field of data analytics and another tech spot I find interest in, as in derive satisfaction in self-development and growth.
 - I seek an opportunity to intern or get an entry-level job where I can make an input, get experience, and grow with the job. I'm open to learning and career guidance as I begin this adventure.
-- I can be reached on LinkedIn, as I love to assist, work, and get your contributions in this chosen path of mine.
+- I can be reached on [LinkedIn](www.linkedin.com/in/juliet-ogbu-malisa), as I love to assist, work, and get your contributions in this chosen path of mine.
 ## CHEERS
